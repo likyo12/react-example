@@ -1,0 +1,6 @@
+{
+  "name": "Lumiere Linen",
+  "description": "Consciously Crafted premium organic European flax linen shopping experience, featuring bedding, bath, and apparel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
